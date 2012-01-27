@@ -1,0 +1,19 @@
+{
+    "MirrorList": [
+	"http://www.gokhanmoral.com/public/files/siyahkernel/"
+    ],
+    "UpdateList": [
+
+    {   
+            "mod": "GT-I9100",
+            "board": "GT-I9100",
+            "type": "rom",
+            "name": "SiyahKernel-v2.6.12",
+            "version": "2.6.12",
+            "description": "OTA app support|Universal Configurator interface support",
+            "branch": "S",
+            "filename": "SiyahKernel-v2.6.14-CWM.zip"
+    },
+
+    ]
+}

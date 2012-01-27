@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changelog>
+        <Version name="SiyahKernel-v2.6.12">
+		<item>OTA Support</item>
+		<item>Universal Configurator interface</item>
+	</Version>
+</changelog>

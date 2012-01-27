@@ -1,0 +1,20 @@
+{
+    "MirrorList": [
+	"http://www.gokhanmoral.com/public/files/siyahkernel/extra/"
+    ],
+    "UpdateList": [
+    	
+        {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "Battery-optimized settings",
+            "version": "",
+            "description": "For those who wants more battery life.",
+            "branch": "S",
+            "filename": "battery-optimized.zip",
+            "Screenshots": [
+            ]
+        },
+    ]
+}
